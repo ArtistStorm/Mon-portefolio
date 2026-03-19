@@ -8,13 +8,21 @@ body {
 
 h1 {
   color: #4d65ff;
+  border-bottom: red 2px solid;
 }
 
 button {
-  background-color: blue;
+  background-color: #4d65ff;
   color: white;
 }
 
 button:hover {
-  background-color: red;
+  background-color: #030f58
+}
+a {
+  text-decoration: none;
+}
+
+button a {
+    color: white;
 }
