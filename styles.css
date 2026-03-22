@@ -17,6 +17,7 @@ button {
 }
 
 button:hover {
+<<<<<<< HEAD
   background-color: #0b22b9
 }
 a {
@@ -25,4 +26,7 @@ a {
 
 button a {
     color: white;
+=======
+  background-color: rgb(187, 9, 62);
+>>>>>>> feature/style-ameliore
 }
